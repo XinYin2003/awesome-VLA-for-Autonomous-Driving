@@ -5,8 +5,8 @@ This is a collection of research papers about VLA-for-Autonomous-Driving. This r
 - [awesome-VLA-for-Autonomous-Driving](#awesome-llm-for-autonomous-driving-resources)
   - [Table of Contents](#table-of-contents)
   - [Vision Language Action(VLA) Models](#vision-language-action(VLA)-models)
-  - [VLA for AD](#papers)
-  - [Survey](#datasets)
+  - [VLA for AD](#VLA-for-AD)
+  - [Survey](#Survey)
 
 ## 🤖 Vision Language Action(VLA) Models
 
